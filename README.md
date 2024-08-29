@@ -66,6 +66,11 @@ print(f"Prediction value: {pre}")
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/56f196bf-68cb-4ed9-be80-3a14f8f11040)
+
+![image](https://github.com/user-attachments/assets/73cae466-25e2-423a-8f2c-c215755d6b0a) ![image](https://github.com/user-attachments/assets/cf4caad0-4262-4338-ac52-1abb60b08ad2)
+
+
 ![image](https://github.com/user-attachments/assets/f605c438-bb25-480e-9363-8f43bea0e019)
 
 
