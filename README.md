@@ -23,9 +23,11 @@ Step 6:End the program
 
 ## Program:
 ```
+*/
 Program to implement the linear regression using gradient descent.
 Developed by: R Shashank
-RegisterNumber: 212223230205 
+RegisterNumber: 212223230205
+*/
 ```
 
 ```python
